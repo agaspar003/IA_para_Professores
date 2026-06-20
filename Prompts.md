@@ -1,4 +1,5 @@
 # Prompts Utilizados
+
 ## 1) ChatGPT — Plano de aula completo (+ rubrica e transparência)
 Você é um coordenador pedagógico especialista em IA aplicada à educação básica. Gere um plano de aula completo para Matemática, 6º ano (32 alunos) sobre “Frações e Representações Visuais” com 50 minutos de duração. Entregue as seções: Título, Contexto, Objetivos de aprendizagem (mensuráveis, “o estudante será capaz de…”), Habilidades/Competências, Conteúdo Programático, Metodologia passo a passo (minutagem sugerida), Recursos (incluindo onde a IA entra), Avaliação (inclua uma rubrica em tabela com critérios e níveis: Excelente, Bom, A melhorar), Diferenciação/Adaptações, Referências. Em cada seção que for proposta por você (IA), insira a tag [Assistido por IA] para garantir transparência. Linguagem clara, nivelada para 6º ano, sem dados pessoais.
 
@@ -11,11 +12,13 @@ Crie materiais complementares para “Frações e Representações Visuais” (M
 2 textos curtos (150–200 palavras cada) que introduzam fração como parte-todo e representação em retângulos/pizzas;
 1 exercício com 5 questões (múltipla escolha e resposta aberta) com gabarito;
 1 atividade prática em grupo (20–30 min), com objetivo, passos, materiais simples (papel quadriculado, canetinhas) e critérios de sucesso. Em cada item criado por você, inclua [Assistido por IA] e, quando pertinente, um alerta ético/autorais (ex.: evitar uso de imagens com licença restrita).
+
 ## 4) ChatGPT — Adaptação para 2 perfis de alunos (personalização)
 Para a mesma aula “Frações e Representações Visuais”, 6º ano, 50 min, 32 alunos, proponha adaptações concretas para dois perfis:
 
 Perfil A: estudante com dificuldades de leitura (linguagem simples, instruções passo a passo, apoio visual extra, tempo adicional).
 Perfil B: estudante com alto interesse/avançado (desafios de extensão, problemas contextualizados, conexão com frações equivalentes e simplificação). Para cada perfil, entregue: objetivos ajustados, instruções diferenciadas, recursos, avaliação adaptada, evidências de aprendizagem e observações de tempo/carga. Marque itens propostos pela IA com [Assistido por IA].
+
 ## 5) Copilot no PowerPoint — Apresentação
 Leia o plano de aula anexado e gere uma apresentação .pptx para o tema “Frações e Representações Visuais” (Matemática, 6º ano).
 
@@ -29,6 +32,7 @@ Personalização para 2 perfis (resumo),
 Internacionalização (idioma, nível CEFR e como usar),
 Links para Plano_de_Aula_IA.pdf|.docx, Apresentacao_Aula_IA.pptx e Reflexao_IA.docx|.pdf,
 Checklist de envio e créditos. Ao final do README, gere também uma reflexão crítica (400–600 palavras) sobre o uso de IA neste projeto (ferramentas, ética/privacidade, ganhos de tempo, personalização, lições aprendidas). Marque trechos gerados por IA com [Assistido por IA].
+
 ## 7) ChatGPT — Auditoria de ética/privacidade e checklist final
 Faça uma auditoria ética do projeto “Frações e Representações Visuais, 6º ano”:
 
